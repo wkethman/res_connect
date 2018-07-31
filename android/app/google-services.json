@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "499200184271",
+    "firebase_url": "https://res-connect.firebaseio.com",
+    "project_id": "res-connect",
+    "storage_bucket": "res-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499200184271:android:c5bb80b86de12121",
+        "android_client_info": {
+          "package_name": "com.wckethman.rc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499200184271-co1gqisjfcjp3ivcn4rna2hm8emn9rf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wckethman.rc",
+            "certificate_hash": "b1d553a899a76292cb37bebb9341d9e40d99034f"
+          }
+        },
+        {
+          "client_id": "499200184271-e2fi5dlco7ui6qshrqqqduaf2d570r0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4GgUmHUQnbGXbA_DDflZ3AI_KzaRTLLE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499200184271-fi75cngjfur27oa2c9228k4mi7ebb1lm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wckethman.resconnect"
+              }
+            },
+            {
+              "client_id": "499200184271-e2fi5dlco7ui6qshrqqqduaf2d570r0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499200184271:android:807de3563868faa1",
+        "android_client_info": {
+          "package_name": "com.wckethman.resconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499200184271-e2fi5dlco7ui6qshrqqqduaf2d570r0i.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "499200184271-vl5o8267v5k5q8ujnh00i8325fethaup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wckethman.resconnect",
+            "certificate_hash": "b1d553a899a76292cb37bebb9341d9e40d99034f"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4GgUmHUQnbGXbA_DDflZ3AI_KzaRTLLE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499200184271-fi75cngjfur27oa2c9228k4mi7ebb1lm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wckethman.resconnect"
+              }
+            },
+            {
+              "client_id": "499200184271-e2fi5dlco7ui6qshrqqqduaf2d570r0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
